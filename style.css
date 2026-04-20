@@ -109,6 +109,10 @@ tr:hover {
   margin-bottom: 1rem;
   padding-bottom: 0.5rem;
   border-bottom: 1px solid black;}
+p{
+text-align: center;
+font-size: 16px
+}
 footer {
   background: green;
   color: white;
