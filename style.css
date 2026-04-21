@@ -22,7 +22,7 @@ nav {
 .nav-links {
   display: flex;
   justify-content: center;
-  gap: 1.5rem;
+  gap: 1rem;
   padding: 1rem;}
 .nav-links a {
   color: white;
