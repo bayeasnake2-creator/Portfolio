@@ -51,10 +51,10 @@ section {
   color: black;
   margin-bottom: 1rem;}
 table {
-  width: 100%;
+  width: 60%;
   border-collapse: collapse;
   background: green;
-  border-radius: 8px;
+  border-radius: 6px;
   overflow: hidden;}
 th {
   background: green;
