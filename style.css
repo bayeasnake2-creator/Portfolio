@@ -51,18 +51,18 @@ section {
   color: black;
   margin-bottom: 1rem;}
 table {
-  width: 60%;
+  width: 100%;
   border-collapse: collapse;
   background: green;
-  border-radius: 6px;
+  border-radius: 8px;
   overflow: hidden;}
 th {
   background: green;
   color: white;
-  padding: 10px;
+  padding: 5px;
   text-align: left;}
 td {
-  padding: 8px 10px;
+  padding: 4px 5px;
   border-bottom: 1px solid orange;}
 tr:hover {
   background: green;}
